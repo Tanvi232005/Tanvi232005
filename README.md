@@ -1,3 +1,5 @@
+
+![Profile Banner](https://github.com/Tanvi232005/Tanvi232005/blob/main/White%20Clean%20Minimalist%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Tanvi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
